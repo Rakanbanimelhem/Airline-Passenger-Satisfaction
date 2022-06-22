@@ -49,7 +49,7 @@ While the specifics of the methodology used in this project will be further disc
         - Correlation between all the Variables
 
 ### 12. Resampling Data
-        - SMOTH
+        - SMOTE
 
 ### 13. Data Splitting 
 
