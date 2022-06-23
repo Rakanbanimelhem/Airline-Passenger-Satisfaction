@@ -24,7 +24,7 @@ While the specifics of the methodology used in this project will be further disc
 ### 05. Select the Featurs
 
 ### 06. Data Pre-Processing
-        -  Drop Variables 
+        - Drop Variables 
         - Convert Data Type
         - Missing Value
 
